@@ -1,0 +1,404 @@
+This is an UnImpress slide document, run this with the unimpress.pl script to realize it's full potential
+http://www.github.com/xlogicx/unimpress
+
+>>speed 1
+
+>>newslide
+>>color 4
+>>title [UnImpress]
+It's unimpressive slide software that can be used strictly on the CLI (command line interface)
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Some Basic Features]
+It has a "beautiful" slide border with optional slide title at the top
+
+It can adjust for different terminal sizes
+
+It has a slide count in the bottom-right corner
+
+It has a corresponding 'progress indicator' bar on the left
+>>endslide
+
+>>newslide
+>>color 4
+>>title [How to Slide]
+The presentation is just a text file
+
+Identify a new slide with > >newslide
+
+Finish the slide with > >endslide
+
+You can also specify a slide title with > >title How to Slide
+>>endslide
+
+
+>>newslide
+>>color 1
+>>title [Colors]
+You can use different color schemes with the > > color command
+
+For example, red would be > >color 1
+>>endslide
+
+>>newslide
+>>color 1
+>>title [Text Formatting]
+You can do>>B Bold Text>>b
+
+You can also do text in different colors; like>>con0 red>>con6 or>>con3 blue>>coff3
+
+Start Bold is > >B, end Bold is > >b
+
+Start a color with > >con#
+
+Turn a color off with > >coff#
+
+(Where # is the number of the color, red and blue were 0 and 3)
+>>endslide  
+
+>>newslide
+>>color 2
+>>title [Transitions]
+We even have "hi-tech" transitions
+
+Transitions are interactive; they are not defined in the text file.
+
+Select a transition (0-6) on the keyboard, the next slide will transition with that corresponding effect untill another transition is selected
+
+transition 0 is the default (no transition)
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\>>con0>>B...>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/   \ 
+-----
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B..>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ />>con0>>B.>>b>>coff0\
+/   \
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B..>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/ >>con0>>B.>>b>>coff0 \
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B.>>b>>coff0 /
+ \>>con0>>B.>>b>>coff0/
+  |
+ />>con0>>B.>>b>>coff0\
+/ >>con0>>B.>>b>>coff0 \
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B.>>b>>coff0 /
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/ >>con0>>B..>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\   /
+ \>>con0>>B.>>b>>coff0/
+  |
+ />>con0>>B.>>b>>coff0\
+/ >>con0>>B..>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\   /
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/>>con0>>B...>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\   /
+ \ /
+  |
+ />>con0>>B.>>b>>coff0\
+/>>con0>>B...>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+
+      /\
+     /  \
+____/ ___\
+\>>con0>>B...>>b>>coff0 /
+ \>>con0>>B..>>b>>coff0/
+  \/
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+ _      _
+|>>con0>>B.>>b>>coff0\_  _/ |
+|>>con0>>B..>>b>>coff0|><_  |
+|_/    \_|
+
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+
+  /\
+ />>con0>>B..>>b>>coff0\
+/___ \_____
+     \    /
+      \  /    
+       \/
+
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\>>con0>>B...>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/   \ 
+-----
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B..>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ />>con0>>B.>>b>>coff0\
+/   \
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B..>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/ >>con0>>B.>>b>>coff0 \
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B.>>b>>coff0 /
+ \>>con0>>B.>>b>>coff0/
+  |
+ />>con0>>B.>>b>>coff0\
+/ >>con0>>B.>>b>>coff0 \
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\ >>con0>>B.>>b>>coff0 /
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/ >>con0>>B..>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\   /
+ \>>con0>>B.>>b>>coff0/
+  |
+ />>con0>>B.>>b>>coff0\
+/ >>con0>>B..>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\   /
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/>>con0>>B...>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+_____
+\   /
+ \ /
+  |
+ />>con0>>B.>>b>>coff0\
+/>>con0>>B...>>b>>coff0\
+----- 
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+
+      /\
+     /  \
+____/ ___\
+\>>con0>>B...>>b>>coff0 /
+ \>>con0>>B..>>b>>coff0/
+  \/
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+ _      _
+|>>con0>>B.>>b>>coff0\_  _/ |
+|>>con0>>B..>>b>>coff0|><_  |
+|_/    \_|
+
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 4
+
+  /\
+ />>con0>>B..>>b>>coff0\
+/___ \_____
+     \    /
+      \  /    
+       \/
+
+>>endslide
+
+>>newslide
+>>color 3
+>>title [Animations!]
+>>delay 0
+_____
+\>>con0>>B...>>b>>coff0/
+ \>>con0>>B.>>b>>coff0/
+  |
+ / \
+/   \ 
+-----
+>>endslide
+
+>>newslide
+>>color 5
+>>title [How to Animation]
+Animations are just a series of slides
+
+Make sure to set global > >speed value at beginning of text file (like > > speed 1), this sets the speed to 1 second
+
+Then, each slide has a delay number, which divides by the global speed. The syntax is > >delay 4
+
+So of speed is 1, and delay is 4, the animation would be 4 frames a second.
+
+The last slide of your animation would have > >delay 0
+>>endslide
+
+>>newslide
+>>color 6
+>>title [Bugs]
+There are bugs:
+
+There are still oddities with text color parsing
+
+Going backwards to animation slides is unusual sometimes, but it works good enough
+
+Terrible word wrapping (none)
+
+...and others
+>>endslide
+
+>>newslide
+>>color 6
+>>title [Exiting]
+You push the 'f' key on your keyboard...for "finish?"
+
+And, this is terminal, so ctrl+c is viable
+>>endslide
