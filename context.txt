@@ -1,0 +1,6315 @@
+59x19 terminal size is optimal for this
+
+>>speed 1
+
+>>newslide
+>>color 4
+>>title [Internalized Context]
+              >>BInternalized Context>>b
+---------------------------------------------------
+
+XlogicX
+
+ipscan.pl - https://github.com/XlogicX/ipscan
+mchecker.lua - https://github.com/XlogicX/mchecker
+unimpress slide "software" - 
+        https://github.com/XlogicX/unimpress
+email - no.axiom@gmail.com
+blog? - xlogicx.net
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUSCON 2015!!!]
+>>delay 4
+           >>con1     X X X     
+          X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+          X   X>>con6 X X X>>con1 X   X
+          X X X>>con0 X X X>>con1 X X X
+              X>>con0 X X X>>con1 X   
+              X>>con6 X X X>>con1 X   
+              X X X X X   
+                X X X     
+              X     X     
+            X       X X X X
+            X             
+            X>>coff1            
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUSCON 2015!!!]
+>>delay 4
+          >>con1     X X X     
+         X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+         X   X>>con6 X X X>>con1 X   X
+         X X X>>con0 X X X>>con1 X X X
+             X>>con0 X X X>>con1 X   
+             X>>con6 X X X>>con1 X   
+             X X X X X   
+               X X X     
+             X     X     
+             X     X
+              X    X      
+               X   X>>coff1           
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUSCON 2015!!!]
+>>delay 4
+         >>con1     X X X     
+        X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+        X   X>>con6 X X X>>con1 X   X
+        X X X>>con0 X X X>>con1 X X X
+            X>>con0 X X X>>con1 X   
+            X>>con6 X X X>>con1 X   
+            X X X X X   
+              X X X     
+            X     X     
+          X       X X X X
+          X             
+          X>>coff1            
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUSCON 2015!!!]
+>>delay 4
+        >>con1     X X X     
+       X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+       X   X>>con6 X X X>>con1 X   X
+       X X X>>con0 X X X>>con1 X X X
+           X>>con0 X X X>>con1 X   
+           X>>con6 X X X>>con1 X   
+           X X X X X   
+             X X X     
+           X     X     
+           X     X
+            X    X      
+             X   X>>coff1           
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS]
+>>delay 4
+       >>con1     X X X     
+      X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+      X   X>>con6 X X X>>con1 X   X
+      X X X>>con0 X X X>>con1 X X X
+          X>>con0 X X X>>con1 X   
+          X>>con6 X X X>>con1 X   
+          X X X X X   
+            X X X     
+          X     X     
+        X       X X X X
+        X             
+        X>>coff1            
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS]
+>>delay 4
+      >>con1     X X X     
+     X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+     X   X>>con6 X X X>>con1 X   X
+     X X X>>con0 X X X>>con1 X X X
+         X>>con0 X X X>>con1 X   
+         X>>con6 X X X>>con1 X   
+         X X X X X   
+           X X X     
+         X     X     
+         X     X
+          X    X      
+           X   X>>coff1           
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS CACTUS]
+>>delay 4
+     >>con1     X X X     
+    X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+    X   X>>con6 X X X>>con1 X   X
+    X X X>>con0 X X X>>con1 X X X
+        X>>con0 X X X>>con1 X   
+        X>>con6 X X X>>con1 X   
+        X X X X X   
+          X X X     
+        X     X     
+      X       X X X X
+      X             
+      X>>coff1            
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS CACTUS]
+>>delay 4
+    >>con1     X X X     
+   X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+   X   X>>con6 X X X>>con1 X   X
+   X X X>>con0 X X X>>con1 X X X
+       X>>con0 X X X>>con1 X   
+       X>>con6 X X X>>con1 X   
+       X X X X X   
+         X X X     
+       X     X     
+       X     X
+        X    X      
+         X   X>>coff1           
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS CACTUS CACTUS]
+>>delay 4
+   >>con1     X X X     
+  X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+  X   X>>con6 X X X>>con1 X   X
+  X X X>>con0 X X X>>con1 X X X
+      X>>con0 X X X>>con1 X   
+      X>>con6 X X X>>con1 X   
+      X X X X X   
+        X X X     
+      X     X     
+    X       X X X X
+    X             
+    X>>coff1            
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS CACTUS CACTUS CACTUS]
+>>delay 4
+  >>con1     X X X     
+ X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+ X   X>>con6 X X X>>con1 X   X
+ X X X>>con0 X X X>>con1 X X X
+     X>>con0 X X X>>con1 X   
+     X>>con6 X X X>>con1 X   
+     X X X X X   
+       X X X     
+     X     X     
+     X     X
+      X    X      
+       X   X>>coff1           
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUS CACTUS CACTUS CACTUS CACTUS]
+>>delay 4
+ >>con1     X X X     
+X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+X   X>>con6 X X X>>con1 X   X
+X X X>>con0 X X X>>con1 X X X
+    X>>con0 X X X>>con1 X   
+    X>>con6 X X X>>con1 X   
+    X X X X X   
+      X X X     
+    X     X     
+  X       X X X X
+  X             
+  X>>coff1            
+>>endslide
+
+>>newslide
+>>color 2
+>>title [CACTUSCON 2015]
+>>delay 0
+ >>con1     X X X     
+X   X>>B>>con6 X>>b>>con1 X>>B>>con6 X>>b>>con1 X   X
+X   X>>con6 X X X>>con1 X   X
+X X X>>con0 X X X>>con1 X X X
+    X>>con0 X X X>>con1 X   
+    X>>con6 X X X>>con1 X   
+    X X X X X   
+      X X X     
+    X     X     
+  X       X X X X
+  X             
+  X>>coff1   
+>>B CACTUSCON III>>b         
+>>endslide
+
+>>newslide
+>>color 4
+>>title [About Me]
+About me and why you (shoudln't) care:
+---------------------------------------------------
+My >>con1Name>>coff1 is >>con0__INSERT__>>coff0, I'm the
+>>con1Cheif Janitation Engineer>>coff1 for >>con0__COMPANY__>>coff0
+I went to >>con0__UNIVERSITY__>>coff0 and studied >>con1desks>>coff1
+
+I have given talks at:
+  JaniCon
+  BurgerCon
+  Your Closet
+  TheMirror
+
+My credibility = more accurate presentation
+>>endslide
+
+
+>>newslide
+>>color 4
+>>title [About Talk?]
+I'm going to talk about:
+
+  * Meaning
+
+  * Context
+
+  * Data
+>>endslide
+
+
+>>newslide
+>>color 4
+>>title [About Talk?]
+I'm going to talk about:
+
+  * Meaning
+
+  * Context
+
+  * Data
+
+>>B>>con0  * A lot of data>>coff0>>b
+>>endslide
+
+>>newslide
+>>color 4
+>>title [The Meaning Formula]
+
+
+
+
+
+         >>BMeaning = Data + Context>>b
+>>endslide
+
+
+>>newslide
+>>color 4
+>>title [No Context]
+This talk is about attempting to find meaning from
+data when we don't have context
+
+We will attempt to avoid large amounts of
+Apophenia
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+We have 13 1's and 19 0's...
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+Is it text?
+ASCII: U.(]
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+How about two numbers, like ports?
+source port: 21763, dest port: 10333
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+What does it look like in Base64?
+VQMoXQ==
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+What if the first 3 bytes were RGB?
+Some kind of dark purple
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+Let's interpret as x86 code:
+push ebp
+add ebp, [eax]
+pop ebp
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+What if the whole thing is a number?
+1,426,270,301
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Data to Consider]
+              >>BWhat's This?>>b
+
+01010101000000110010100001011101
+
+In Hex it's 55 03 28 5d
+
+Wait, what is that number in epoch?
+Fri Mar 13 11:11 AM MST 2015
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Code Golf I]
+Challange:
+
+Given arbitrary data, decide if it containes IPv4
+packets.
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Let's Look at a PCAP]
+
+This is the hex of a PCAP file:
+---------------------------------------------------
+a1b2c3d40002000400000000000000000001000f000000014E
+BD02CF000000000000004B0000004B123456789ABC31333731
+333708004500003d133740008C065830C0A80101C0A8010213
+3701bb0000000000000000801800009c5300000101080ADEAD
+BEEFFFFFFFFFd796c34f4fc7e3c6d6
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Patterns]
+
+Patterns?
+---------------------------------------------------
+a1b2c3d40002000400000000000000000001000f000000014E
+BD02CF000000000000004B0000004B123456789ABC31333731
+333708004500003d133740008C065830C0A80101C0A8010213
+3701bb0000000000000000801800009c5300000101080ADEAD
+BEEFFFFFFFFFd796c34f4fc7e3c6d6
+>>endslide
+
+>>newslide
+>>color 4
+>>title [45]
+
+Patterns?
+---------------------------------------------------
+a1b2c3d40002000400000000000000000001000f000000014E
+BD02CF000000000000004B0000004B123456789ABC31333731
+33370800>>B>>con045>>b>>coff000003d133740008C065830C0A80101C0A8010213
+3701bb0000000000000000801800009c5300000101080ADEAD
+BEEFFFFFFFFFd796c34f4fc7e3c6d6
+>>endslide
+
+>>newslide
+>>color 4
+>>title [False Positives]
+
+Do we just count hex 45's?
+
+$ echo "EEEEEEEEEEEE" > legit.pcap
+
+legit.pcap has 12 packets right?
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Link Layer]
+
+How about 0800 45?
+---------------------------------------------------
+a1b2c3d40002000400000000000000000001000f000000014E
+BD02CF000000000000004B0000004B123456789ABC31333731
+3337>>B>>con0080045>>b>>coff000003d133740008C065830C0A80101C0A8010213
+3701bb0000000000000000801800009c5300000101080ADEAD
+BEEFFFFFFFFFd796c34f4fc7e3c6d6
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Null/Loopback]
+
+False Negative Exibit A: vnc-sample.pcap from
+wiki.wireshark.org/SampleCaputres
+
+It uses Null/Loopback for Link Layer; not
+Ethernet II
+
+Data would look like 0200 0000 45.... (2 for IP)
+
+So we can't use 0800 for IPv4
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Checksums]
+
+The Checksum
+---------------------------------------------------
+a1b2c3d40002000400000000000000000001000f000000014E
+BD02CF000000000000004B0000004B123456789ABC31333731
+333700800>>B>>con045>>b>>coff000003d133740008C06>>B>>con05830>>b>>coff0C0A80101C0A8010213
+3701bb0000000000000000801800009c5300000101080ADEAD
+BEEFFFFFFFFFd796c34f4fc7e3c6d6
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Checksum Calculation]
+
+Let's derive this checksum.
+
+This is our "assumed" 20 byte IPv4 header:
+---------------------------------------------------
+>>B>>con045>>b>>coff000003d133740008C06>>B>>con05830>>b>>coff0C0A80101C0A80102
+>>endslide
+
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000003d133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+    003d133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+  003d133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+  003d133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+ 003d133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+    133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+   133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+  133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+ 133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+133740008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+    40008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+   40008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+  40008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+ 40008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+40008C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+    8C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+   8C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+  8C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+ 8C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+    >>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+   >>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+  >>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+ >>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+    >>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+   >>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+  >>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+ >>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A80101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+    0101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+   0101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+  0101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+ 0101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+    C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+   C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+  C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+ C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+C0A80102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+C0A8
+    0102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+C0A8
+   0102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+C0A8
+  0102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 20
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000
+>>b>>coff0C0A8
+0101
+C0A8
+ 0102
+>>endslide
+
+>>newslide
+>>color 4
+>>delay 0
+>>title [Checksum Calculation]
+
+We break the bytes up into 2-byte chunks (in order)
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000>>b>>coff0
+C0A8
+0101
+C0A8
+0102
+>>endslide
+
+
+
+
+>>newslide
+>>color 4
+>>title [Checksum Calculation]
+
+Add them up
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06
+>>B>>con00000>>b>>coff0   +  >>con12A7CD>>coff1
+C0A8
+0101
+C0A8
+0102
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Checksum Calculation]
+
+Remove overflow and add into result
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000   -- >>con2+2>>coff2 --
+8C06   |      V
+>>B>>con00000>>b>>coff0   ---->>con1A7C>>coff1>>con2F>>coff2
+C0A8
+0101
+C0A8
+0102
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Checksum Calculation]
+
+Subtract from FFFF
+---------------------------------------------------
+>>B>>con045>>b>>coff000
+003d
+1337
+4000
+8C06       >>con3FFFF>>coff3
+>>B>>con00000>>b>>coff0     - >>con1A7CF>>coff1
+C0A8       ----
+0101       >>con05830>>coff0  <----- CHECKSUM!
+C0A8
+0102
+>>endslide
+
+>>newslide
+>>color 4
+>>title [One Last Note]
+
+Why the "45" though?
+>>endslide
+
+>>newslide
+>>color 4
+>>title [One Last Note]
+
+Why the "45" though?
+         |
+         |
+         |
+         -----------> IPv4
+>>endslide
+
+>>newslide
+>>color 4
+>>title [One Last Note]
+
+Why the "45" though?
+         ||
+         |----------> Header length (x4)
+         |
+         -----------> IPv4
+>>endslide
+
+>>newslide
+>>color 4
+>>title [One Last Note]
+
+Why the "45" though?
+         ||
+         |----------> Header length (x4)
+         |
+         -----------> IPv4
+
+So 45 means IPv4 with a 20 byte (5x4) header length
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Other Valid sizes]
+
+We need at least 20 bytes for an IPv4 header, but
+it can be up to 64 bytes total.
+
+So valid values can be:
+45, 46, 47, 48, 49, 4a, 4b, 4c, 4d, 4e, and 4f
+>>endslide
+
+>>newslide
+>>color 4
+>>title [False Positives]
+
+To Pose another question: given random data what
+are the chances we would hit a correct checksum by
+chance?
+>>endslide
+
+>>newslide
+>>color 4
+>>title [False Positives]
+
+To Pose another question: given random data what
+are the chances we would hit a correct checksum by
+chance?
+
+Since checksums are 2-bytes, the answer is easy:
+1 in 65,536
+>>endslide
+
+>>newslide
+>>color 4
+>>title 4[^5]
+
+As it turns out, non 20-byte headers occur less
+than 1 in 65,536 times in general.
+
+This means looking for 46-4f bytes would render
+more hits on random data than real IPv4 packets
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Takeaway]
+
+Why is that important?
+
+To know that an increase on the 
+accuracy/completeness of our hueristic can 
+actually lower the fidelity of our results.
+>>endslide
+
+
+
+>>newslide
+>>color 2
+>>title [Code]
+
+Ok, that was fun, but let's do that with code
+instead.
+
+We will again start with a datastream (on
+the next slide) as we did with potential IPv4
+traffic.
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Data]
+This is our data:
+
+54686973206973206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54686973206973206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+  686973206973206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+ 686973206973206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+686973206973206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+          73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+         73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+        73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+       73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+      73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+     73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+    73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+   73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+  73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+ 73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+73206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+    6e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+   6e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+  6e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+ 6e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+  6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+ 6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+  7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+ 7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+    636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+   636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+  636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+ 636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+      65210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+     65210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+    65210a
+>>endslide
+
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+   65210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+  65210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+ 65210a
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 0
+>>title [Data]
+Let's give it explicit context: x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+65210a      >>con3and>>coff3 >>con1dword ptr>>coff1 >>con0gs>>coff0:[>>con0edx>>coff0], >>con0ecx>>coff0
+>>endslide
+
+
+>>newslide
+>>color 2
+>>title [Data]
+Is this meaningful x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+65210a      >>con3and>>coff3 >>con1dword ptr>>coff1 >>con0gs>>coff0:[>>con0edx>>coff0], >>con0ecx>>coff0
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Data]
+Is this meaningful x86 code:
+
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+65210a      >>con3and>>coff3 >>con1dword ptr>>coff1 >>con0gs>>coff0:[>>con0edx>>coff0], >>con0ecx>>coff0
+
+>>con4jnb>>coff4 checks if the >>con5carry flag>>coff5 was set
+>>con4jz>>coff4 checks if the >>con5zero flag>>coff5 was set
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Data]
+54          >>con3push>>coff3 >>con0esp>>coff0
+6869732069  >>con3push>>coff3 0x69732069
+7320        >>con4jnb>>coff4 20 bytes
+6e          >>con3outsb>>coff3
+6f          >>con3outsd>>coff3
+7420        >>con4jz>>coff4 20 bytes
+636f64      >>con3movsxd>>coff3 >>con0ebp>>coff0, >>con1dword ptr>>coff1 [>>con0edi>>coff0+100]
+65210a      >>con3and>>coff3 >>con1dword ptr>>coff1 >>con0gs>>coff0:[>>con0edx>>coff0], >>con0ecx>>coff0
+
+>>con4jnb>>coff4 checks if the >>con5carry flag>>coff5 was set
+  >>con3push>>coff3 doesn't set the >>con5carry flag>>coff5
+>>con4jz>>coff4 checks if the >>con5zero flag>>coff5 was set
+  >>con3outs>>coff3 doesn't set the >>con5zero flag>>coff5
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Data]
+Same data, different context (ASCII)
+
+Data:
+54686973206973206e6f7420636f6465210a
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Data]
+Same data, different context (ASCII)
+
+Data:
+54686973206973206e6f7420636f6465210a
+
+Command:
+>>con3echo>>coff3 "54686973206973206e6f7420636f6465210a" |
+>>con3xxd>>coff3 -r -p
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Data]
+Same data, different context (ASCII)
+
+Data:
+54686973206973206e6f7420636f6465210a
+
+Command:
+>>con3echo>>coff3 "54686973206973206e6f7420636f6465210a" |
+>>con3xxd>>coff3 -r -p
+>>con0This is not code!>>coff0
+>>endslide
+
+
+
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+Python?
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+C#?
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+C?
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+>>con0C?>>coff0
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+>>con0C?>>coff0
+Assembly?
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+>>con0C?>>coff0
+>>con0Assembly?>>coff0
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+>>con0C?>>coff0
+>>con0Assembly?>>coff0
+Machine Code?
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Code]
+
+How low level should we get?
+
+>>con0Python?>>coff0
+>>con0C#?>>coff0
+>>con0C?>>coff0
+>>con0Assembly?>>coff0
+>>con1Machine Code?>>coff1
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Levelness]
+
+Why So Low Level?
+
+Why Not just dissassemble and analyze the
+assembly language for patterns?
+
+>>endslide
+
+>>newslide
+>>color 1
+>>title [Alignment]
+
+We are assuming we have an arbitrary chunk of
+data...
+
+This means alignment is most likely off;
+The data stream is starting in the middle of
+an instruction
+
+>>endslide
+
+
+
+
+
+8984eb225e897608c6460700c6460c00c6460d00
+
+>>newslide
+>>color 2
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+              08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+              08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+             08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+            08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+           08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+          08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+         08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+        08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+       08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+      08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+     08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+    08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+   08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+  08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+ 08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+    460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+   460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+  460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+ 460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+    00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+   00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+  00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+ 00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+    460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+   460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+  460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+ 460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+      c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+     c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+    c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+   c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+  c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+ c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 0
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976 
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+c6460d00       >>con3mov>>coff3 >>con1byte ptr>>coff1[>>con0esi>>coff0+13], 0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+ c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+  c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+   c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+    c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+     c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00         >>con3or>>coff3 >>con0al>>coff0, 0
+      c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+ 460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+  460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+   460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6           >>con3add>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+    460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+ 00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+  00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+   00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+4607           >>con3dw 0x0746>>coff3
+    00c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+ 460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+  460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+   460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6           >>con3or>>coff3 >>con0dh>>coff0, >>con0al>>coff0
+    460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+ 08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+  08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+   08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+    08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+     08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+      08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+       08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+        08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+         08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+          08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+           08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+            08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+             08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+  >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0ebx>>coff0+>>con0ebp>>coff0*8+0x76895e22], >>con0eax>>coff0
+              08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e8976
+              08c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 0
+>>title [Alignment]
+
+Let's look at some machine code:
+
+8984eb225e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Alignment]
+
+Let's look at some machine code:
+
+>>con08984>>coff0eb225e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Alignment]
+
+Let's look at some machine code:
+
+    eb225e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb225e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb225e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+    5e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+   5e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+  5e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+ 5e897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+  897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+ 897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+      c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+     c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+    c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+   c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+  c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+ c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+        c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+       c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+      c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+     c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+    c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+   c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+  c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+ c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+        c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+       c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+      c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+     c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+    c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+   c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+  c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 20
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+ c6460d00
+
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 0
+>>title [Alignment]
+
+Let's look at some machine code:
+
+eb22      >>con3jmp>>coff3 22 bytes
+5e        >>con3pop>>coff3 >>con0esi>>coff0
+897608    >>con3mov>>coff3 >>con1dword ptr>>coff1 [>>con0esi>>coff0+8], >>con0esi>>coff0
+c6460700  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+7], 0
+c6460c00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+12], 0
+c6460d00  >>con3mov>>coff3 >>con1byte ptr>>coff1 [>>con0esi>>coff0+13], 0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [How Long is an Instruction?]
+
+We will be looking for patterns like:
+
+Instruction 1 -> Instruction 2
+
+For example:
+CMP -> Jcc
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [How Long is an Instruction?]
+
+Say we are looking for CMP -> Jcc.
+
+We need to know how many bytes a CMP would
+be; because we are looking for a CMP
+>>con0directly>>coff0 followed by a Jcc
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [So Much Machine]
+
+If only machine code was as simple as:
+
+0x35 means XOR EAX with the 32-bit value that
+follows it
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [So Much Machine]
+
+If only machine code was as simple as:
+
+0x35 means XOR EAX with the 32-bit value that
+follows it
+
+...Well, the above statement is happens to be true,
+
+but that isn't to say that 0x35 means all that is 
+XOR
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [So Much XOR]
+In fact, here are all of the XOR opcodes (without)
+the oparand complexities:
+
+0x30
+0x31
+0x32
+0x33
+0x34
+0x35
+0x80 /6
+0x81 /6
+0x83 /6
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+Let's just look at the 0x30 XOR
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+Let's just look at the 0x30 XOR
+
+0x30 is XOR r/m8, r8
+
+This means do an XOR
+
+The 1st operand can be either a register or memory
+location
+
+The 2nd operand must be a register
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con12 bytes?>>coff1
+
+30 00
+>>con3xor>>coff3 [>>con0eax>>coff0], >>con0al>>coff0
+
+ModR/M: Mod 0, R/M [eax], R al
+SIB: N/A
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con13 bytes?>>coff1
+
+30 40 07
+>>con3xor>>coff3 [>>con0eax>>coff0 + 7], >>con0al>>coff0
+
+ModR/M: Mod 1, R/M [eax + disp8], R al
+SIB: N/A
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con16 bytes?>>coff1
+
+30 80 37 13 37 13
+>>con3xor>>coff3 [>>con0eax>>coff0 + 13371337], >>con0al>>coff0
+
+ModR/M: Mod 2, R/M [eax + disp32, R al
+SIB: N/A
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con1a different 3 bytes?>>coff1
+
+30 04 6f
+>>con3xor>>coff3 [>>con0edi>>coff0 + >>con0ebp>>coff0 * 2], >>con0al>>coff0
+
+ModR/M: Mod 0, SIB
+SIB: SS 01, Index [ebp * 2], Base [edi]
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con13 bytes that could be 2 bytes?>>coff1
+
+30 04 60
+>>con3xor>>coff3 [>>con0eax>>coff0], >>con0al>>coff0
+
+ModR/M: Mod 0, SIB
+SIB: SS 01, Index none, WAT?!@#$%^
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con12 bytes?>>coff1
+
+30 c0
+>>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0
+
+ModR/M: Mod 3, R/M al, R al
+SIB: N/A
+>>endslide
+
+>>newslide
+>>color 2
+>>title [XOR 0x30]
+
+How many bytes?
+
+>>con1Another 3 bytes that could be 2 bytes?>>coff1
+
+48 30 c0
+>>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0
+
+ModR/M: Mod 3, R/M al, R al
+SIB: N/A
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Patterns]
+
+So since we are obviously not calculating IPv4
+checksums.
+
+What kinds of patterns are we looking for?
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC I]
+
+Hueristic I: Jcc has context
+
+If we are doing a conditional jump, what must
+first be done?
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC I]
+
+Hueristic I: Jcc has context
+
+If we are doing a conditional jump, what must
+first be done?
+
+>>con3Testing for a condition>>coff3
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC I]
+
+Hueristic I: Jcc has context
+
+If we are doing a conditional jump, what must
+first be done?
+
+>>con3Testing for a condition>>coff3
+
+To put in a lower level:
+Conditional Jumps rely on checking flags
+Test, Compare, and other instructions set flags
+
+It makes sense to Test/Compare and then jump
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC I]
+
+Hueristic I: Too much accuracy
+
+Is there the tcp/ip 46-4f byte of instructions
+that set flags?
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC I]
+
+Hueristic I: Too much accuracy
+
+Is there the tcp/ip 46-4f byte of instructions
+that set flags?
+
+>>con3
+There are tons of instructions that set flags,
+But a TEST or CMP are the most common preceding
+a Jcc.
+>>coff3
+>>endslidef
+
+
+>>newslide
+>>color 2
+>>title [HUERISTIC II]
+
+Hueristic II: XOR Register with itself
+
+Moving 0 into a register is common;
+Variables need initialzing in high level code
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC II]
+
+Hueristic II: XOR Register with itself
+
+Being naive, we may expect lots of:
+>>con3mov>>coff3 >>con0eax>>coff0, 0
+
+....
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC II]
+
+Hueristic II: XOR Register with itself
+
+In reality, we see a lot of:
+>>con3xor>>coff3 >>con0eax>>coff0, >>con0eax>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC II]
+
+Hueristic II: XOR Register with itself
+
+In reality, we see a lot of:
+>>con3xor>>coff3 >>con0eax>>coff0, >>con0eax>>coff0
+
+>>con0WHY?>>coff0
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC II]
+
+Hueristic II: XOR Register with itself
+
+Both methods effectively put 0 into EAX.
+
+It's all about the machine code:
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC II]
+
+Hueristic II: XOR Register with itself
+
+Both methods effectively put 0 into EAX.
+
+It's all about the machine code:
+
+b800000000  >>con3mov>>coff3 >>con0eax>>coff0, 0
+31c0        >>con3xor>>coff3 >>con0eax>>coff0, >>con0eax>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC III]
+
+Hueristic III: CALL/RET Balance
+
+More RETs than CALLs would be an unusual thing
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC IV]
+
+Hueristic IV: POP-RET
+
+POPs often occur before a RET
+
+This isn't a hard rule though, just a common pattern
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [HUERISTIC V]
+
+Hueristic V: Unlikely Machine Code
+
+  * Redundant ModR/M
+
+  * Redundant REX
+
+  * Unused SIB
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Redundant ModR/M]
+
+0x30 XOR is: XOR r/m8, r8
+0x32 XOR is: XOR r8, r/m8
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Redundant ModR/M]
+
+0x30 XOR is: XOR r/m8, r8
+0x32 XOR is: XOR r8, r/m8
+
+Being that both allow for an r8 for either operand
+
+30c0   >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0
+32c0   >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Redundant ModR/M]
+
+But a compiler is only going to pick one of these
+variations.
+
+I have never seen a compiler use the 32c0 form
+
+30c0   >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0
+32c0   >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [SIB 'none']
+
+Regarding the SIB byte, for all SS (0-3),
+An Index value of 100 (4) nullifies the
+effect of a SIB byte.
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [SIB 'none']
+
+Regarding the SIB byte, for all SS (0-3),
+An Index value of 100 (4) nullifies the
+effect of a SIB byte.
+
+I have NEVER seen a SIB with 4 as Index
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [SIB 'none']
+
+Regarding the SIB byte, for all SS (0-3),
+An Index value of 100 (4) nullifies the
+effect of a SIB byte.
+
+I have NEVER seen a SIB with 4 as Index
+
+So:
+30 04 60  >>con3xor>>coff3 [>>con0eax>>coff0], >>con0al>>coff0
+30 00     >>con3xor>>coff3 [>>con0eax>>coff0], >>con0al>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Redundosaurus REX]
+
+64-bit REX prefixes are good for this:
+>>B 41>>b 30c0  >>con3xor>>coff3 >>con0r8b>>coff0, >>con0al>>coff0
+
+  >>Bo>>b>>con1->>coff1>>Bo>>b             >>Bo>>b>>con1->>coff1>>Bo>>b             >>Bo>>b>>con1->>coff1>>Bo>>b
+ >>con1(\_/)\          (\_/)\          (\_/)\
+  `-'\ `--.___,   `-'\ `--.___,   `-'\ `--.___,
+     /\( ,_.-'       /\( ,_.-'       /\( ,_.-'
+    `  \\           `  \\              \\
+        ^'              ^'              ^'>>coff1
+
+>>endslide                      
+
+>>newslide
+>>color 2
+>>title [Redundosaurus REX]
+
+But then there's this this:    >>Bo>>b>>con1->>coff1>>Bo>>b
+ 30c0        >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0       >>con1(\_/)\>>coff1
+>>B 40>>b 30c0     >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0        >>con1`-'\ `--.___,>>coff1
+>>B 42>>b 30c0     >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0           >>con1/\( ,_.-'>>coff1
+>>B 48>>b 30c0     >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0          >>con1`  \\>>coff1
+>>B 4a>>b 30c0     >>con3xor>>coff3 >>con0al>>coff0, >>con0al>>coff0              >>con1^'>>coff1
+  >>Bo>>b>>con1->>coff1>>Bo>>b             >>Bo>>b>>con1->>coff1>>Bo>>b             >>Bo>>b>>con1->>coff1>>Bo>>b
+ >>con1(\_/)\          (\_/)\          (\_/)\
+  `-'\ `--.___,   `-'\ `--.___,   `-'\ `--.___,
+     /\( ,_.-'       /\( ,_.-'       /\( ,_.-'
+    `  \\           `  \\              \\
+        ^'              ^'              ^'>>coff1
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Testing]
+
+I tested this script against about 500 sample files
+
+About 250 code:
+
+
+
+About 250 data/files:
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Testing]
+
+I tested this script against about 500 sample files
+
+About 250 code:
+Linux (Mint) x86/64
+Windows 7 x86/64
+
+About 250 data/files:
+/dev/urandom, jpg, doc, msg, rtf, xls, ppt, pdf, 
+mp3, wav, avi, mov, mpg, mkv, bmp, png, gif, rom, 
+html, c, pcap, zip, tar
+
+>>endslide
+
+
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+---------------------------------------------------
+>>con2                >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+---------------------------------------------------
+>>con2X                >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+---------------------------------------------------
+>>con2XX                >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX                >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX X               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX XX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX XXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX XXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX XXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX XXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------------------------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2X>>coff2----------------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XX>>coff2---------------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXX>>coff2--------------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXX>>coff2-------------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXX>>coff2------------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX               >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      X         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXXXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2-----------------------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2-----------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX         >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2-----------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX X        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2-----------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2-----------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2X>>coff2-------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XX>>coff2------------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXX>>coff2-----------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXX>>coff2----------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX        >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     X   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2---------------
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2X>>coff2---
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XX>>coff2--
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   >>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 0
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+                                           
+---------------------------------------------------
+                                        
+---------------------------------------------------
+                                       
+---------------------------------------------------
+                                        
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3                                           >>coff3
+---------------------------------------------------
+>>con3                                        >>coff3
+---------------------------------------------------
+>>con3                                       >>coff3
+---------------------------------------------------
+>>con3X                                        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3                                           >>coff3
+---------------------------------------------------
+>>con3                                        >>coff3
+---------------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X                                        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3                                           >>coff3
+-->>con3X>>coff3------------------------------------------------
+>>con3                                        >>coff3
+---------------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X                                        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X                                        >>coff3
+-->>con3X>>coff3------------------------------------------------
+>>con3                                        >>coff3
+---------------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X                                        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X                                        >>coff3
+-->>con3X>>coff3------------------------------------------------
+>>con3                                        >>coff3
+---->>con3X>>coff3----------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X                                        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3------------------------------------------------
+>>con3                                        >>coff3
+---->>con3X>>coff3----------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X                                        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3------------------------------------------------
+>>con3                                        >>coff3
+---->>con3X>>coff3----------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3------------------------------------------------
+>>con3       X                                 >>coff3
+---->>con3X>>coff3----------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X                                 >>coff3
+---->>con3X>>coff3----------------------------------------------
+>>con3 X                                      >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X                                 >>coff3
+---->>con3X>>coff3----------------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X                                 >>coff3
+---->>con3X>>coff3----->>con3X>>coff3----------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X                                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X   X                              >>coff3
+---->>con3X>>coff3----->>con3X>>coff3----------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X   X                              >>coff3
+---->>con3X>>coff3----->>con3X>>coff3----------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X                                   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X   X                              >>coff3
+---->>con3X>>coff3----->>con3X>>coff3----------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------------------------------------------
+>>con3       X   X                              >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-----------------------------------
+>>con3       X   X                              >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3------------------------------------
+>>con3 X       X                               >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-----------------------------------
+>>con3       X   X                              >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3------------------------------------
+>>con3 X       X      X                         >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-----------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3------------------------------------
+>>con3 X       X      X                         >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3------------------------------------
+>>con3 X       X      X                         >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X                         >>coff3
+---------------------------------------------------
+>>con3X     X      X                             >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X                         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X                       >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X    X                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X                       >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X                                 >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X    XX                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X                       >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X                         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X    XX                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X                       >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3--------------------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X    XX                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X                       >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3-------------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X    XX                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X                       >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3-------------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3-------------------------------
+>>con3 X       X      X    XX                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X                  >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3-------------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3-----------------------
+>>con3 X       X      X    XX                     >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X                  >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3-------------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3-----------------------
+>>con3 X       X      X    XX     X                >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X                  >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3-----------------------
+>>con3 X       X      X    XX     X                >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X                  >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X                       >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3-----------------------
+>>con3 X       X      X    XX     X                >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X               >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3-----------------------
+>>con3 X       X      X    XX     X                >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X               >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3-----------------------
+>>con3 X       X      X    XX     X   X             >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X               >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X             >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X               >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X                   >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X             >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X            >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3---------------------
+>>con3       X   X     X      X          X         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X             >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X            >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3--------------
+>>con3       X   X     X      X          X         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X             >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X            >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3--------------
+>>con3       X   X     X      X          X         >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X    X         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X            >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X                >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3--------------
+>>con3       X   X     X      X          X  X       >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X    X         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X            >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3--------------
+>>con3       X   X     X      X          X  X       >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X    X         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X            >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3--------------
+>>con3       X   X     X      X          X  X       >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3-----------------
+>>con3 X       X      X    XX     X   X    X         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3--------------
+>>con3       X   X     X      X          X  X       >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3---------
+>>con3 X       X      X    XX     X   X    X         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3--------
+>>con3       X   X     X      X          X  X       >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3---------
+>>con3 X       X      X    XX     X   X    X         >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3--------
+>>con3       X   X     X      X          X  X       >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3---------
+>>con3 X       X      X    XX     X   X    X     X    >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3--------
+>>con3       X   X     X      X          X  X     X  >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3---------
+>>con3 X       X      X    XX     X   X    X     X    >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3--------
+>>con3       X   X     X      X          X  X     X  >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3-----
+>>con3 X       X      X    XX     X   X    X     X    >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X        >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3--------
+>>con3       X   X     X      X          X  X     X  >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3-----
+>>con3 X       X      X    XX     X   X    X     X    >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X     X   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3---->>con3X>>coff3---
+>>con3       X   X     X      X          X  X     X  >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3-----
+>>con3 X       X      X    XX     X   X    X     X    >>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X     X   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3---->>con3X>>coff3---
+>>con3       X   X     X      X          X  X     X  >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3-----
+>>con3 X       X      X    XX     X   X    X     X    X>>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X     X   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 30
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X         >>coff3
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3---->>con3X>>coff3---
+>>con3       X   X     X      X          X  X     X  >>coff3
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3--->>con3X>>coff3-
+>>con3 X       X      X    XX     X   X    X     X    X>>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X     X   >>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+>>newslide
+>>color 2
+>>delay 0
+>>title [XOR Reg, Reg]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X>>coff3           
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3---->>con3X>>coff3---
+>>con3       X   X     X      X          X  X     X>>coff3  
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3------->>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3--->>con3X>>coff3-
+>>con3 X       X      X    XX     X   X    X     X    X>>coff3
+---------------------------------------------------
+>>con3X     X      X      X     X   X   X     X     X   X>>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----------->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX      XXXXXXXXXXX XXX     XXXXXXXXXXX   X>>coff2
+>>endslide
+
+
+>>newslide
+>>color 2
+>>title [Test->Jcc]
+
+---------------------------------------------------
+>>con3   X X      X          X       X       X>>coff3           
+-->>con3X>>coff3----->>con3X>>coff3------>>con3X>>coff3-->>con3X>>coff3------>>con3X>>coff3--->>con3X>>coff3------>>con3X>>coff3----->>con3X>>coff3---->>con3X>>coff3---
+>>con3       X   X     X      X          X  X     X>>coff3  
+---->>con3X>>coff3----->>con3X>>coff3--->>con3X>>coff3---->>con3X>>coff3>>con2X>>coff2------>>con3X>>coff3----->>con3X>>coff3------->>con3X>>coff3--->>con3X>>coff3--->>con3X>>coff3-
+>>con3 X       X      X    X      X   X    X     X    X>>coff3
+--------------------------------------->>con2X>>coff2-----------
+>>con3X     X             X     X   X   X     X     X   X>>coff3
+---------------------------------------------------
+
+-->>con2X>>coff2------->>con2XXXXXX>>coff2----->>con3X>>coff3----->>con2X>>coff2--->>con2XXXXX>>coff2----------->>con2XXX>>coff2-
+>>con2XX XXXXXXX   >>con3X>>coff3  >>con2XXXX XXXXXX XXX     XXX XXXXXXX   X>>coff2
+>>endslide
+
+
+
+
+
+
+
+
+
+
+>>newslide
+>>color 2
+>>title [Suri]
+
+Adding this script into the Suricata IDS
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Suri]
+
+Adding this script into the Suricata IDS
+
+>>con0function>>coff0 >>con4init>>coff4 (args)
+    >>con0local>>coff0 needs = {}
+    needs[>>con4"payload">>coff4] = >>con5tostring(true)>>coff5
+    >>con0return>>coff0 needs
+>>con0end>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Suri]
+
+Adding this script into the Suricata IDS
+
+>>con0function>>coff0 >>con4match>>coff4(args)
+    --do mchecker magic and return 1 if code
+>>con0end>>coff0
+
+>>endslide
+
+>>newslide
+>>color 2
+>>title [Suri]
+
+Adding this script into the Suricata IDS
+
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"
+ET SHELLCODE Possible Call with No Offset TCP
+Shellcode"; flow:established; content:"|E8 00 00 00
+ 00 58|"; >>con0luajit:mchecker_suri.lua;>>coff0 fast_pattern:
+only; reference:url,www.networkforensics.com/2010/
+05/16/network-detection-of-x86-buffer-overflow-
+shellcode/; classtype:shellcode-detect; 
+sid:2012086; rev:1;)
+
+>>endslide
+
+>>newslide
+>>color 4
+>>title [Internalized Context]
+              >>BQUESTIONS!!!>>b
+---------------------------------------------------
+
+XlogicX
+
+ipscan.pl - https://github.com/XlogicX/ipscan
+mchecker.lua - https://github.com/XlogicX/mchecker
+unimpress slide "software" - 
+        https://github.com/XlogicX/unimpress
+email - no.axiom@gmail.com
+blog? - xlogicx.net
+>>endslide
