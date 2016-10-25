@@ -455,7 +455,7 @@ sub generate_slide {
     #Add slide content and refresh   
     try {
         while($content) {  #while there is still slide content left to process
-            if ($content =~ /(.*?)(>>(con|coff|B|b)\d?)/s) {    #If there is a format modifier
+            if ($content =~ /(.*?)(>>(con|coff|B|b|U|u|K|k)\d?)/s) {    #If there is a format modifier
                 $slide->addstr($1);                             #Add the part before the modifier (unprocessed)
                 my $mod = $2;                                   #Capture the actual modifier
                 $content =~ s/\Q$&\E//;                         #update content by removing our full match
@@ -470,7 +470,19 @@ sub generate_slide {
                 }
                 if ($mod =~ /b/) {                              #if bold off
                     $slide->attroff(A_BOLD);                    #turn it off
-                }                                  
+                }
+                if ($mod =~ /U/) {                              #if underline on
+                    $slide->attron(A_UNDERLINE);                #turn it on
+                }
+                if ($mod =~ /u/) {                              #if underline off
+                    $slide->attroff(A_UNDERLINE);               #turn it off
+                }
+                if ($mod =~ /K/) {                              #if blinking on
+                    $slide->attron(A_BLINK);                    #turn it on
+                }
+                if ($mod =~ /k/) {                              #if blinking off
+                    $slide->attroff(A_BLINK);                   #turn it off
+                }
             } else {                                            #if there were no modifiers
                 $slide->addstr($content);                       #just print all of it unmodified
                 $content = undef;                               #no more content
